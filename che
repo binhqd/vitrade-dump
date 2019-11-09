@@ -1,9 +1,6 @@
-name: Phần A: Sản phẩm và sức mạnh cộng đồng
-sections:
-  name: Tổ chức sản xuất
-  sections:
-    name: Nguồn nguyên liệu
+Phần A: Sản phẩm và sức mạnh cộng đồng
+  Tổ chức sản xuất
+    Nguồn nguyên liệu
     note: Bị loại nếu sử dụng toàn bộ nguyên liệu nhập khẩu hoặc không rõ nguồn gốc
-    questions:
-      name: Có sử dụng nguồn nguyên liệu trong tỉnh
-      point: 1
+      q: Có sử dụng nguồn nguyên liệu trong tỉnh
+      p: 1
